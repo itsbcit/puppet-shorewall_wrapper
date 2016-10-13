@@ -1,0 +1,15 @@
+{
+  "name": "jweisner-shorewall_wrapper",
+  "version": "0.1.0",
+  "author": "jweisner",
+  "summary": "Hiera wrapper for inkblot-shorewall",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jweisner/puppet-shorewall_wrapper",
+  "project_page": "https://github.com/jweisner/puppet-shorewall_wrapper",
+  "issues_url": "https://github.com/jweisner/puppet-shorewall_wrapper/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
